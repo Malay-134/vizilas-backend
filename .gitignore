@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 credentials.json
+.env
 
 .vscode/*
 !.vscode/extensions.json
